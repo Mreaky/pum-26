@@ -1,4 +1,4 @@
-# Course materials for the 2026/2027 edition of Basics of Machine Learning (Podstawy Uczenia Maszynowego) 
+# Course materials for the 2026/2027 edition of Foundations of Machine Learning (Podstawy Uczenia Maszynowego) 
 ## Taught at the Faculty of Chemistry, Jagiellonian University in Kraków
 
 ```
